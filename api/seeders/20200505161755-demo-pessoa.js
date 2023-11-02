@@ -48,6 +48,14 @@ module.exports = {
 				role: 'docente',
 				createdAt: new Date(),
 				updatedAt: new Date()
+			},
+			{
+				nome: 'Frederico Matalascayando y Corcuera',
+				ativo: true,
+				email: 'frederico@matalascayando.com',
+				role: 'docente',
+				createdAt: new Date(),
+				updatedAt: new Date()
 			}
 	], {})
   },
